@@ -40,7 +40,7 @@ The dashboard consists of the following visualizations:
 5. **Performance Analysis**: Provides an overview of performance evaluation categories.
 6. **Geographic Insights**: Displays employee distribution on a map.
 
-![HR Dashboard Screenshot]("C:\Users\saina\Pictures\Screenshots\HR_Analysis_Dashboard.png")
+("C:\Users\saina\Pictures\Screenshots\HR_Analysis_Dashboard.png")
 
 ## Tools and Technologies
 - **Power BI**: For data visualization and dashboard creation.
