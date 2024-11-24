@@ -41,7 +41,8 @@ The dashboard consists of the following visualizations:
 6. **Geographic Insights**: Displays employee distribution on a map.
 
 ## Dashboard Screenshot
-!["C:\Users\saina\Pictures\Screenshots\HR_Analysis_Dashboard.png"]
+## Dashboard Preview
+![HR Dashboard Preview](https://github.com/sainath7452/HR_Analytics_Dashboard/blob/main/HR_Analysis_Dashboard.png)
 
 ## Tools and Technologies
 - **Power BI**: For data visualization and dashboard creation.
