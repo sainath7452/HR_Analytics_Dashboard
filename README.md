@@ -71,8 +71,8 @@ If you encounter any issues, refer to the Power BI documentation or open an issu
 ## Project Structure
 - **HR Dashboard.pbix**: The Power BI file containing the dashboard.
 - **HRData.csv**: The dataset used for this project.
-- **README.md**: Documentation for the project.
 - **Screenshots**: Contains screenshots of the dashboard.
+- **README.md**: Documentation for the project.
 
 ## Contributions
 Contributions are welcome! If you have suggestions for improving the dashboard or want to add new features, feel free to fork this repository and submit a pull request.
