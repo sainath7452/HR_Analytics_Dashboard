@@ -69,8 +69,8 @@ To view or replicate this project:
 If you encounter any issues, refer to the Power BI documentation or open an issue in this repository.
 
 ## Project Structure
-- **HRData.csv**: The dataset used for this project.
 - **HR Dashboard.pbix**: The Power BI file containing the dashboard.
+- **HRData.csv**: The dataset used for this project.
 - **README.md**: Documentation for the project.
 - **Screenshots**: Contains screenshots of the dashboard.
 
